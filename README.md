@@ -19,7 +19,7 @@ How to use:
       return 'Simple Overload: ' + str; 
     }
     , 'Number' : function(n) {
-      return 'It\'s a the number ' + n;
+      return 'It\'s the number ' + n;
     }
     // It's a from/to relationship with the prop name and expected params!!!
     , 'String,Number,String' : function(str1, n, str2) {
