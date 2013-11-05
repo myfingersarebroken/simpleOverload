@@ -1,4 +1,9 @@
 simpleOverload
 ==============
 
-A simple method do overload functions in a beautiful way
+A simple method to overload functions in a beautiful way
+
+
+
+How to use:
+===========
