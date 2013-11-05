@@ -9,9 +9,7 @@ How to use:
 ===========
 ```javascript
   var myOverloadedFunc = _$over({
-    /**
-     * Called without params
-     */
+    // Called without params
       '' : function() {
       return 'Overloaded!!!';
     }
